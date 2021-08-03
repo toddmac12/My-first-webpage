@@ -1,7 +1,8 @@
 h1 {
-    color: #0000ff;
+    color: red;
     text-align: center;
-  }
+    font-weight: 300;
+    }
   
   h2 {
     font-style: italic;
